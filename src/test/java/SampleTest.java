@@ -6,7 +6,7 @@ public class SampleTest{
 
 @Test
 	public void sampleTestPass()
-	
+	//hello
 	{
 		int a=1;
 		int b=2;
